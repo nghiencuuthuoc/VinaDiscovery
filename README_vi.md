@@ -1,6 +1,6 @@
 # VinaDiscovery
 
-## AI-Powered Computer-Aided Drug Discovery Platform
+## Nền tảng AI cho Computer-Aided Drug Discovery
 
 <p align="center">
   <img src="./images/VinaDiscovery_Brochure_Cover.png" alt="VinaDiscovery" width="100%">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  AI · Cheminformatics · Structural Biology · Molecular Simulation · ADME · Safety · Molecular Design
+  AI · Cheminformatics · Sinh học cấu trúc · Mô phỏng phân tử · ADME · An toàn · Thiết kế phân tử
 </p>
 
 <p align="center">
@@ -36,41 +36,41 @@
 
 ---
 
-## Overview
+## Tổng quan
 
-VinaDiscovery is an integrated scientific computing platform for modern drug discovery, combining **cheminformatics, artificial intelligence, structural biology, molecular simulation, ADME, safety intelligence, medicinal chemistry, and synthesis planning** in a unified research environment.
+VinaDiscovery là nền tảng scientific computing tích hợp dành cho nghiên cứu và phát triển thuốc hiện đại, kết hợp **cheminformatics, trí tuệ nhân tạo, sinh học cấu trúc, mô phỏng phân tử, ADME, an toàn, medicinal chemistry và lập kế hoạch tổng hợp** trong một môi trường nghiên cứu thống nhất.
 
-The platform is designed to move beyond isolated molecular calculators toward a connected discovery workflow where **molecules, models, simulations, evidence, uncertainty, and project context** can be linked and traced throughout the research process.
+VinaDiscovery được định hướng vượt ra ngoài mô hình các molecular calculator độc lập, hướng tới một workflow liên kết trong đó **molecule, model, simulation, evidence, uncertainty và project context** có thể được kết nối và truy vết xuyên suốt quá trình nghiên cứu.
 
 > **From Molecular Data to Drug Discovery Decisions**
 
 <p align="center">
-  <img src="./images/a_wide_cinematic_high_quality_promotional_banner.png" alt="VinaDiscovery scientific platform" width="100%">
+  <img src="./images/a_wide_cinematic_high_quality_promotional_banner.png" alt="Nền tảng khoa học VinaDiscovery" width="100%">
 </p>
 
 ---
 
-# Why VinaDiscovery?
+# Vì sao VinaDiscovery?
 
-Modern drug discovery requires many different computational perspectives.
+Drug discovery hiện đại cần nhiều góc nhìn tính toán khác nhau.
 
-A promising molecule is not defined by a single score. Researchers may need to evaluate:
+Một molecule tiềm năng không thể được xác định chỉ bằng một score. Nhà nghiên cứu có thể cần đánh giá đồng thời:
 
-- molecular identity and chemical representation
-- chemical similarity and chemical space
+- molecular identity và chemical representation
+- chemical similarity và chemical space
 - biological targets
-- binding sites and molecular interactions
-- docking and binding hypotheses
+- binding sites và molecular interactions
+- docking và binding hypotheses
 - molecular dynamics
 - free-energy calculations
 - physicochemical properties
-- ADME and developability
-- toxicity and safety
-- potency and selectivity
+- ADME và developability
+- toxicity và safety
+- potency và selectivity
 - molecular optimization
 - synthetic feasibility
 
-VinaDiscovery connects these capabilities into a continuous scientific workflow.
+VinaDiscovery kết nối các capability này thành một scientific workflow liên tục.
 
 ```text
 Molecular Data
@@ -113,17 +113,17 @@ Synthesis Planning
 ```
 
 <p align="center">
-  <img src="./images/VinaDiscovery_Workflow_Infographic.png" alt="VinaDiscovery workflow" width="100%">
+  <img src="./images/VinaDiscovery_Workflow_Infographic.png" alt="Workflow VinaDiscovery" width="100%">
 </p>
 
 ---
 
-# Scientific Architecture
+# Kiến trúc khoa học
 
-VinaDiscovery is organized into six major scientific layers.
+VinaDiscovery được tổ chức thành sáu scientific layers chính.
 
 <p align="center">
-  <img src="./images/a_wide_cinematic_clean_infographic_diagram_scene_batch_1.png" alt="VinaDiscovery scientific architecture" width="100%">
+  <img src="./images/a_wide_cinematic_clean_infographic_diagram_scene_batch_1.png" alt="Kiến trúc khoa học VinaDiscovery" width="100%">
 </p>
 
 ```text
@@ -162,34 +162,34 @@ VinaDiscovery
     └── VinaSidechain
 ```
 
-The architecture is intentionally modular while maintaining interoperability between scientific components.
+Kiến trúc được thiết kế theo hướng module hóa nhưng vẫn duy trì interoperability giữa các thành phần khoa học.
 
 ---
 
-# Core Modules
+# Các module cốt lõi
 
-| Module | Scientific Role |
+| Module | Vai trò khoa học |
 |---|---|
-| **VinaMolPrep** | Molecular preparation and structure standardization |
-| **VinaSimilarity** | Ligand similarity and virtual screening |
-| **VinaChemSpace** | Chemical-space exploration, clustering and diversity analysis |
-| **VinaMMP** | Matched molecular pair analysis and chemical transformations |
-| **VinaBioisostere** | Data-driven molecular replacement and lead optimization |
-| **VinaPharmacophore** | Ligand- and structure-based pharmacophore intelligence |
-| **VinaTarget** | AI target prediction and target fishing |
-| **VinaPocket** | Binding-site and pocket intelligence |
-| **VinaBind** | Molecular docking and binding-pose hypotheses |
-| **VinaInteract** | Protein–ligand interaction analysis |
+| **VinaMolPrep** | Chuẩn hóa và chuẩn bị cấu trúc phân tử |
+| **VinaSimilarity** | Molecular similarity và virtual screening |
+| **VinaChemSpace** | Khám phá chemical space, clustering và diversity |
+| **VinaMMP** | Matched molecular pair và chemical transformations |
+| **VinaBioisostere** | Molecular replacement và lead optimization theo dữ liệu |
+| **VinaPharmacophore** | Pharmacophore intelligence dựa trên ligand và structure |
+| **VinaTarget** | AI target prediction và target fishing |
+| **VinaPocket** | Binding-site và pocket intelligence |
+| **VinaBind** | Molecular docking và binding-pose hypotheses |
+| **VinaInteract** | Phân tích protein–ligand interactions |
 | **VinaParam** | Molecular force-field parameterization |
 | **VinaMD** | Molecular dynamics simulation |
-| **VinaFEP** | Binding free-energy and relative free-energy workflows |
+| **VinaFEP** | Binding free-energy và relative free-energy workflows |
 | **VinaQSAR** | Machine-learning molecular property modelling |
-| **VinaADME** | ADME and drug-likeness intelligence |
-| **VinaTox** | Toxicity and safety intelligence |
+| **VinaADME** | ADME và drug-likeness intelligence |
+| **VinaTox** | Toxicity và safety intelligence |
 | **VinaLeadOpt** | Multi-parameter lead optimization |
 | **VinaDeNovo** | Generative molecular design |
-| **VinaSynthesis** | Retrosynthesis and synthetic route planning |
-| **VinaSidechain** | Non-natural amino-acid and sidechain intelligence |
+| **VinaSynthesis** | Retrosynthesis và synthetic route planning |
+| **VinaSidechain** | Non-natural amino-acid và sidechain intelligence |
 
 ---
 
@@ -197,21 +197,21 @@ The architecture is intentionally modular while maintaining interoperability bet
 
 ## VinaMolPrep
 
-VinaMolPrep is the entry point for molecular computation.
+VinaMolPrep là cửa vào của computational molecular workflow.
 
-Typical preparation steps include:
+Các bước chuẩn bị có thể bao gồm:
 
-- structure validation
+- kiểm tra cấu trúc
 - normalization
-- salt and fragment handling
-- tautomer handling
-- protonation-state assignment
-- stereochemistry validation
-- 3D conformer generation
+- xử lý salt và fragment
+- xử lý tautomer
+- xác định protonation state
+- kiểm tra stereochemistry
+- tạo 3D conformer
 - molecular representation
-- charge preparation
+- chuẩn bị charge
 
-The goal is to establish a consistent molecular identity that can be reused across downstream workflows.
+Mục tiêu là tạo một molecular identity nhất quán có thể được sử dụng trong các workflow downstream.
 
 <p align="center">
   <img src="./images/VinaDiscovery_Molecular_Preparation.png" alt="VinaDiscovery Molecular Preparation" width="100%">
@@ -223,28 +223,28 @@ The goal is to establish a consistent molecular identity that can be reused acro
 
 ## VinaSimilarity
 
-VinaSimilarity answers:
+VinaSimilarity trả lời câu hỏi:
 
-> **Which molecules are most similar to this query?**
+> **Những molecule nào giống query này nhất?**
 
-Potential applications include:
+Các ứng dụng có thể bao gồm:
 
 - nearest-neighbor search
-- analog identification
+- tìm analog
 - virtual screening
 - scaffold exploration
 - similarity-based filtering
 - chemical library exploration
 
-Multiple molecular representations can be used rather than relying on a single representation.
+Hệ thống có thể hỗ trợ nhiều molecular representations thay vì phụ thuộc vào một representation duy nhất.
 
 ## VinaChemSpace
 
-VinaChemSpace answers:
+VinaChemSpace trả lời câu hỏi rộng hơn:
 
-> **How is a large molecular collection organized?**
+> **Một tập hợp hàng lớn molecule được tổ chức như thế nào?**
 
-Potential capabilities include:
+Các capability có thể bao gồm:
 
 - clustering
 - diversity analysis
@@ -271,7 +271,7 @@ Population-Level Chemical Intelligence
 
 ## VinaMMP
 
-VinaMMP focuses on **matched molecular pair transformations**.
+VinaMMP tập trung vào **matched molecular pair transformations**.
 
 ```text
 Compound A
@@ -282,7 +282,7 @@ Compound A
                               Property / Activity Δ
 ```
 
-Potential signals include:
+Các tín hiệu có thể bao gồm:
 
 - ΔpIC50
 - ΔKi
@@ -293,13 +293,13 @@ Potential signals include:
 - Δpermeability
 - Δclearance
 
-This enables transformation-level knowledge to support medicinal chemistry.
+Điều này cho phép xây dựng transformation-level knowledge phục vụ medicinal chemistry.
 
 ## VinaBioisostere
 
-VinaBioisostere builds on molecular transformation evidence to explore alternative structural replacements.
+VinaBioisostere dựa trên evidence về molecular transformation để khám phá các structural replacement thay thế.
 
-Potential output can include:
+Kết quả có thể bao gồm:
 
 ```text
 Replacement
@@ -311,11 +311,11 @@ Frequency
 Confidence
 ```
 
-The objective is to support medicinal chemists when exploring structural alternatives during lead optimization.
+Mục tiêu là hỗ trợ medicinal chemist khi tìm kiếm các phương án cấu trúc mới trong quá trình lead optimization.
 
 ## VinaPharmacophore
 
-VinaPharmacophore models molecular features such as:
+VinaPharmacophore mô hình hóa các đặc trưng như:
 
 - hydrogen-bond donors
 - hydrogen-bond acceptors
@@ -324,7 +324,7 @@ VinaPharmacophore models molecular features such as:
 - ionizable features
 - spatial constraints
 
-This supports:
+Ứng dụng có thể gồm:
 
 - ligand-based screening
 - structure-based design
@@ -341,9 +341,9 @@ This supports:
 
 ## VinaTarget
 
-VinaTarget provides target hypotheses from chemical and biological evidence.
+VinaTarget xây dựng target hypotheses từ chemical và biological evidence.
 
-Potential evidence layers include:
+Các lớp evidence có thể bao gồm:
 
 ```text
 Chemical Similarity
@@ -359,15 +359,15 @@ Knowledge Graph Evidence
 Structural Evidence
 ```
 
-The objective is to provide ranked hypotheses together with supporting evidence and confidence rather than presenting a computational prediction as confirmed biological mechanism.
+Mục tiêu là cung cấp ranked hypotheses cùng evidence và confidence thay vì coi computational prediction như một biological mechanism đã được xác nhận.
 
 ## VinaPocket
 
-VinaPocket focuses on:
+VinaPocket tập trung vào câu hỏi:
 
-> **Where could molecular binding occur?**
+> **Binding có thể xảy ra ở đâu?**
 
-Potential outputs include:
+Các output có thể gồm:
 
 - pocket coordinates
 - pocket volume
@@ -379,13 +379,13 @@ Potential outputs include:
 
 ## VinaBind
 
-VinaBind focuses on:
+VinaBind tập trung vào câu hỏi:
 
-> **How could a ligand bind?**
+> **Ligand có thể gắn như thế nào?**
 
-The platform layer is designed to remain **engine-neutral**, allowing different docking and scoring backends to be integrated over time.
+Platform layer được thiết kế theo hướng **engine-neutral**, cho phép tích hợp nhiều docking/scoring backend theo thời gian.
 
-Typical outputs include:
+Các output có thể gồm:
 
 ```text
 Binding Poses
@@ -395,13 +395,13 @@ Search Metadata
 Backend Information
 ```
 
-A docking score is treated as a computational ranking signal rather than a direct measurement of experimental binding affinity.
+Docking score được xem là computational ranking signal, không phải phép đo trực tiếp của experimental binding affinity.
 
 ## VinaInteract
 
-VinaInteract converts molecular structures and trajectories into interpretable interaction information.
+VinaInteract chuyển structures và trajectories thành interaction information có thể diễn giải.
 
-Potential interaction classes include:
+Các nhóm tương tác có thể gồm:
 
 - hydrogen bonds
 - hydrophobic contacts
@@ -413,7 +413,7 @@ Potential interaction classes include:
 - residue contacts
 - interaction fingerprints
 
-The structural workflow becomes:
+Workflow cấu trúc:
 
 ```text
 VinaPocket
@@ -429,9 +429,9 @@ VinaInteract
 
 ## VinaParam
 
-VinaParam focuses on **molecular force-field parameterization**.
+VinaParam tập trung vào **molecular force-field parameterization**.
 
-Potential outputs include:
+Output có thể gồm:
 
 ```text
 Atom Types
@@ -443,11 +443,11 @@ Non-Bonded Parameters
 Topology
 ```
 
-Parameterization and simulation are intentionally treated as separate responsibilities.
+Parameterization và simulation được thiết kế như hai trách nhiệm riêng biệt.
 
 ## VinaMD
 
-VinaMD provides molecular dynamics workflows for studying:
+VinaMD cung cấp molecular dynamics workflows để nghiên cứu:
 
 - conformational behavior
 - molecular stability
@@ -468,14 +468,14 @@ Trajectory
 
 ## VinaFEP
 
-VinaFEP is intended for higher-level free-energy workflows, including:
+VinaFEP hướng tới các free-energy workflows ở cấp độ cao hơn, bao gồm:
 
 - relative binding free energy
 - alchemical transformations
 - free-energy perturbation
 - related free-energy analysis
 
-The scientific distinction is fundamental:
+Phân biệt khoa học cơ bản:
 
 ```text
 Docking Score
@@ -490,14 +490,14 @@ Experimental Measurement
 # Predictive ADME & Safety Intelligence
 
 <p align="center">
-  <img src="./images/VinaDiscovery_ADME_Tox_Intelligence.png" alt="VinaDiscovery ADME and Toxicity Intelligence" width="100%">
+  <img src="./images/VinaDiscovery_ADME_Tox_Intelligence.png" alt="VinaDiscovery ADME và Toxicity Intelligence" width="100%">
 </p>
 
 ## VinaQSAR
 
-VinaQSAR provides a general framework for molecular property modelling.
+VinaQSAR là framework chung cho molecular property modelling.
 
-Potential model families include:
+Các model families có thể gồm:
 
 - molecular descriptors
 - molecular fingerprints
@@ -507,7 +507,7 @@ Potential model families include:
 - molecular transformers
 - ensemble models
 
-The framework is intended to support:
+Framework được định hướng hỗ trợ:
 
 - scaffold-aware splitting
 - cluster splitting
@@ -519,9 +519,9 @@ The framework is intended to support:
 
 ## VinaADME
 
-VinaADME focuses on early developability assessment.
+VinaADME tập trung vào early developability assessment.
 
-Potential areas include:
+Các nhóm chỉ tiêu có thể bao gồm:
 
 - physicochemical properties
 - lipophilicity
@@ -535,9 +535,9 @@ Potential areas include:
 - drug-likeness
 - medicinal-chemistry alerts
 
-A VinaADME prediction should not be interpreted as an experimental measurement.
+Prediction của VinaADME không nên được hiểu là experimental measurement.
 
-Where appropriate, results should provide:
+Khi phù hợp, kết quả nên cung cấp:
 
 ```text
 Prediction
@@ -551,9 +551,9 @@ Evidence
 
 ## VinaTox
 
-VinaTox extends the predictive layer toward safety intelligence.
+VinaTox mở rộng predictive layer sang safety intelligence.
 
-Potential endpoints can include:
+Các endpoint có thể gồm:
 
 - mutagenicity
 - cardiac safety-related endpoints
@@ -564,7 +564,7 @@ Potential endpoints can include:
 - skin sensitization
 - endocrine-related endpoints
 
-Safety predictions are intended for early computational triage and hypothesis generation, not as substitutes for experimental toxicology.
+Safety prediction phục vụ early computational triage và hypothesis generation, không thay thế experimental toxicology.
 
 ---
 
@@ -576,9 +576,9 @@ Safety predictions are intended for early computational triage and hypothesis ge
 
 ## VinaLeadOpt
 
-VinaLeadOpt is designed for **multi-parameter lead optimization**.
+VinaLeadOpt được thiết kế cho **multi-parameter lead optimization**.
 
-A realistic optimization problem may involve:
+Một bài toán tối ưu thực tế có thể bao gồm:
 
 ```text
 Maximize:
@@ -597,7 +597,7 @@ Constraints:
     Chemical Novelty
 ```
 
-Potential capabilities include:
+Các capability có thể gồm:
 
 - multi-objective optimization
 - Pareto-front analysis
@@ -607,9 +607,9 @@ Potential capabilities include:
 
 ## VinaDeNovo
 
-VinaDeNovo focuses on generative molecular design.
+VinaDeNovo tập trung vào generative molecular design.
 
-Candidate structures should be evaluated through downstream computational checks:
+Các cấu trúc được sinh ra nên tiếp tục đi qua downstream computational checks:
 
 ```text
 Generate
@@ -627,13 +627,13 @@ VinaSynthesis
 VinaLeadOpt
 ```
 
-Generating a molecular structure is therefore only one stage of the discovery process.
+Sinh ra một molecular structure mới chỉ là một giai đoạn trong discovery workflow.
 
 ## VinaSynthesis
 
-VinaSynthesis connects computational molecular design with practical chemistry.
+VinaSynthesis kết nối computational molecular design với chemistry thực tế.
 
-Potential outputs include:
+Output có thể gồm:
 
 - retrosynthetic routes
 - precursor candidates
@@ -651,9 +651,9 @@ Computationally Designed Molecule
 
 ## VinaSidechain
 
-VinaSidechain extends the platform toward peptide and protein-related molecular engineering.
+VinaSidechain mở rộng platform sang peptide và protein-related molecular engineering.
 
-Potential applications include:
+Ứng dụng có thể gồm:
 
 - non-natural amino acids
 - sidechain libraries
@@ -666,10 +666,10 @@ Potential applications include:
 # End-to-End Discovery Workflow
 
 <p align="center">
-  <img src="./images/wide_cinematic_conceptual_composite_image_of_drug_batch_2.png" alt="VinaDiscovery drug discovery concept" width="100%">
+  <img src="./images/wide_cinematic_conceptual_composite_image_of_drug_batch_2.png" alt="Khái niệm drug discovery của VinaDiscovery" width="100%">
 </p>
 
-A typical small-molecule discovery workflow can connect multiple VinaDiscovery capabilities:
+Một workflow small-molecule có thể kết nối nhiều capability:
 
 ```text
 SMILES / SDF
@@ -724,9 +724,9 @@ VinaMolPrep
 
 # Scientific Result Contract
 
-A computational result should be treated as a scientific record rather than an isolated number.
+Computational result nên được xem là scientific record thay vì một con số đứng độc lập.
 
-Example:
+Ví dụ:
 
 ```json
 {
@@ -745,7 +745,7 @@ Example:
 }
 ```
 
-The schema may evolve, but the principle is:
+Schema có thể tiếp tục thay đổi, nhưng nguyên tắc là:
 
 > **Every scientific result should be traceable.**
 
@@ -753,9 +753,9 @@ The schema may evolve, but the principle is:
 
 # Molecular Knowledge Layer
 
-VinaDiscovery is designed around a shared scientific data model.
+VinaDiscovery được thiết kế dựa trên một shared scientific data model.
 
-Core entities can include:
+Các entity chính có thể gồm:
 
 ```text
 Compound
@@ -774,7 +774,7 @@ Artifact
 Job
 ```
 
-A computational result should be traceable through:
+Một computational result nên truy vết được theo chuỗi:
 
 ```text
 Input
@@ -794,7 +794,7 @@ Result
 Evidence
 ```
 
-This architecture supports:
+Kiến trúc này hỗ trợ:
 
 - reproducibility
 - auditability
@@ -807,9 +807,9 @@ This architecture supports:
 
 # Uncertainty & Applicability Domain
 
-VinaDiscovery treats uncertainty as part of the scientific result.
+VinaDiscovery coi uncertainty là một phần của scientific result.
 
-A prediction may be accompanied by:
+Một prediction có thể đi kèm:
 
 ```text
 Prediction
@@ -823,20 +823,20 @@ Applicability Domain
 Evidence
 ```
 
-This helps researchers distinguish between:
+Điều này giúp nhà nghiên cứu phân biệt giữa:
 
-- predictions strongly supported by related training examples
-- predictions with limited evidence
-- predictions outside the expected applicability domain
-- computational hypotheses requiring additional experimental investigation
+- prediction được hỗ trợ mạnh bởi các training examples liên quan
+- prediction có evidence hạn chế
+- prediction nằm ngoài applicability domain kỳ vọng
+- computational hypothesis cần thêm experimental investigation
 
-The goal is not to hide uncertainty, but to make it visible.
+Mục tiêu không phải che giấu uncertainty mà là làm cho nó hiển thị rõ ràng.
 
 ---
 
 # Scientific Integrity
 
-VinaDiscovery explicitly distinguishes between different classes of information.
+VinaDiscovery phân biệt rõ các loại thông tin:
 
 ```text
 Experimental
@@ -846,7 +846,7 @@ Inferred
 Literature-Derived
 ```
 
-The platform avoids scientifically misleading equivalences such as:
+Platform tránh các phép đồng nhất gây hiểu nhầm khoa học như:
 
 ```text
 Docking score
@@ -866,36 +866,36 @@ Negative toxicity prediction
 Proof of safety
 ```
 
-Computational results are intended to support scientific reasoning and prioritization alongside experimental evidence.
+Computational results được dùng để hỗ trợ scientific reasoning và prioritization song song với experimental evidence.
 
 ---
 
 # Validation Philosophy
 
-Different scientific modules require different validation strategies.
+Các scientific module khác nhau cần những chiến lược validation khác nhau.
 
-| Module Group | Example Validation |
+| Nhóm module | Ví dụ validation |
 |---|---|
 | Similarity / Chemical Space | neighbour relevance, enrichment, scaffold recovery |
 | Target Prediction | top-k recall, PR-AUC, temporal/external validation |
-| Molecular Binding | pose RMSD, enrichment and benchmark evaluation |
-| Interaction Analysis | recovery against experimental structures |
-| Parameterization | energies/geometries against validated references |
-| Molecular Dynamics | trajectory stability and experimental observables where available |
-| Free Energy | error against experimental ΔG / ΔΔG |
-| QSAR | scaffold, temporal and external validation |
-| ADME | endpoint-specific predictive metrics and calibration |
-| Toxicity | sensitivity, specificity, PR-AUC and external evaluation |
-| Molecular Design | validity, novelty, uniqueness and property success |
-| Synthesis Planning | route validity, feasibility and expert review |
+| Molecular Binding | pose RMSD, enrichment và benchmark evaluation |
+| Interaction Analysis | recovery so với experimental structures |
+| Parameterization | energies/geometries so với validated references |
+| Molecular Dynamics | trajectory stability và experimental observables khi có |
+| Free Energy | error so với experimental ΔG / ΔΔG |
+| QSAR | scaffold, temporal và external validation |
+| ADME | endpoint-specific predictive metrics và calibration |
+| Toxicity | sensitivity, specificity, PR-AUC và external evaluation |
+| Molecular Design | validity, novelty, uniqueness và property success |
+| Synthesis Planning | route validity, feasibility và expert review |
 
-For molecular machine learning, random splitting alone may not adequately evaluate generalization across chemical space. VinaDiscovery therefore targets validation strategies appropriate to the intended use case, including scaffold, cluster, temporal and external evaluation.
+Đối với molecular machine learning, random splitting đơn thuần có thể không đánh giá đầy đủ khả năng generalization trên chemical space. VinaDiscovery do đó hướng tới scaffold, cluster, temporal và external evaluation tùy intended use case.
 
 ---
 
 # Data, AI & Physics
 
-VinaDiscovery is designed around three complementary modes of scientific computing:
+VinaDiscovery được thiết kế quanh ba phương thức scientific computing bổ trợ cho nhau:
 
 ```text
 Data
@@ -905,13 +905,13 @@ AI / ML
 Physics-Based Simulation
 ```
 
-connected by:
+được kết nối bởi:
 
 ```text
 Evidence
 ```
 
-Together:
+Tổng hợp:
 
 ```text
 Data
@@ -926,14 +926,14 @@ Molecular Intelligence
 ```
 
 <p align="center">
-  <img src="./images/a_wide_cinematic_futuristic_infographic_style_il_batch_3.png" alt="VinaDiscovery molecular intelligence" width="100%">
+  <img src="./images/a_wide_cinematic_futuristic_infographic_style_il_batch_3.png" alt="Molecular intelligence của VinaDiscovery" width="100%">
 </p>
 
 ---
 
 # Platform Architecture
 
-VinaDiscovery is designed as an extensible scientific platform rather than a single monolithic computational engine.
+VinaDiscovery được định hướng như một extensible scientific platform thay vì một computational engine nguyên khối.
 
 ```text
 Web Application
@@ -967,7 +967,7 @@ Scientific Data Layer
 CPU / GPU / HPC / Cloud
 ```
 
-The architecture is intended to support both interactive research and high-throughput computational campaigns.
+Kiến trúc hướng tới cả interactive research và high-throughput computational campaigns.
 
 ---
 
@@ -975,37 +975,37 @@ The architecture is intended to support both interactive research and high-throu
 
 ## 1. Scientific correctness over marketing claims
 
-Algorithms should be described according to what they actually calculate.
+Thuật toán cần được mô tả đúng theo những gì nó thực sự tính toán.
 
 ## 2. Evidence-aware AI
 
-Predictions should be accompanied by uncertainty, applicability context and provenance whenever possible.
+Prediction nên đi kèm uncertainty, applicability context và provenance khi có thể.
 
 ## 3. Reproducibility by design
 
-Molecular identity, datasets, model versions, parameters and software versions should be traceable.
+Molecular identity, dataset, model version, parameters và software versions cần có khả năng truy vết.
 
 ## 4. Modular scientific architecture
 
-Individual capabilities should remain independently testable while interoperating through shared scientific data contracts.
+Các capability phải độc lập trong testing nhưng có khả năng interoperability thông qua shared scientific data contracts.
 
 ## 5. Engine-neutral infrastructure
 
-The platform layer should not be unnecessarily tied to a single computational backend.
+Platform layer không nên bị phụ thuộc không cần thiết vào một computational backend duy nhất.
 
 ## 6. Human-led discovery
 
-AI and automation should augment researchers rather than obscure scientific judgement.
+AI và automation phải hỗ trợ researcher thay vì che khuất scientific judgement.
 
 ## 7. Experimental validation remains essential
 
-Computational predictions generate hypotheses and prioritize experiments; they do not replace experimental evidence.
+Computational prediction tạo hypothesis và hỗ trợ prioritization; không thay thế experimental evidence.
 
 ---
 
-# Intended Users
+# Đối tượng sử dụng
 
-VinaDiscovery is designed for researchers working in:
+VinaDiscovery hướng tới các nhóm nghiên cứu trong:
 
 - Medicinal Chemistry
 - Computational Chemistry
@@ -1020,9 +1020,9 @@ VinaDiscovery is designed for researchers working in:
 
 ---
 
-# Repository Structure
+# Cấu trúc repository
 
-## Current
+## Hiện tại
 
 ```text
 VinaDiscovery/
@@ -1031,7 +1031,7 @@ VinaDiscovery/
 └── README.md
 ```
 
-## Planned
+## Dự kiến
 
 ```text
 VinaDiscovery/
@@ -1065,34 +1065,34 @@ VinaDiscovery/
 
 ## Scientific Ecosystem
 
-VinaDiscovery is designed to integrate with established scientific software, molecular-data resources, and computational frameworks where appropriate.
+VinaDiscovery được thiết kế để tích hợp với các scientific software, molecular-data resources và computational frameworks phù hợp.
 
-- **RDKit** — cheminformatics, molecular representations, descriptors, fingerprints, conformers, and chemical structure processing.  
+- **RDKit** — cheminformatics, molecular representations, descriptors, fingerprints, conformers và chemical structure processing.  
   https://www.rdkit.org/
-- **Open Force Field Toolkit** — molecular mechanics, molecular topology, and force-field workflows.  
+- **Open Force Field Toolkit** — molecular mechanics, molecular topology và force-field workflows.  
   https://docs.openforcefield.org/
-- **OpenMM** — molecular dynamics and molecular simulation infrastructure.  
+- **OpenMM** — molecular dynamics và molecular simulation infrastructure.  
   https://openmm.org/
 - **OpenFE** — free-energy calculation workflows.  
   https://openfree.energy/
-- **Chemprop** — message-passing neural networks for molecular property prediction.  
+- **Chemprop** — message-passing neural networks cho molecular property prediction.  
   https://github.com/chemprop/chemprop
-- **ProLIF** — protein–ligand interaction fingerprints and interaction analysis.  
+- **ProLIF** — protein–ligand interaction fingerprints và interaction analysis.  
   https://github.com/chemosim-lab/ProLIF
-- **ChEMBL** — curated bioactivity and chemical data for drug-discovery research.  
+- **ChEMBL** — curated bioactivity và chemical data cho drug-discovery research.  
   https://www.ebi.ac.uk/chembl/
 
-> Third-party software, datasets, models, and scientific resources retain their respective licenses and attribution requirements. They are not relicensed by this repository.
+> Phần mềm, dataset, model và scientific resource của bên thứ ba giữ nguyên license và yêu cầu attribution riêng. Repository này không relicence các thành phần đó.
 
 ---
 
 # Citation
 
-VinaDiscovery is an evolving research and software project.
+VinaDiscovery là một research và software project đang phát triển.
 
-When citing a specific implementation, benchmark, dataset, model, or scientific result, please cite the corresponding project documentation and upstream scientific resources used by that component.
+Khi trích dẫn một implementation, benchmark, dataset, model hoặc scientific result cụ thể, vui lòng trích dẫn documentation của project tương ứng và các scientific resources upstream được sử dụng bởi component đó.
 
-A machine-readable `CITATION.cff` file is planned for a future release.
+Một file `CITATION.cff` machine-readable được dự kiến bổ sung trong release tương lai.
 
 ---
 
@@ -1100,27 +1100,27 @@ A machine-readable `CITATION.cff` file is planned for a future release.
 
 ## Apache License 2.0
 
-VinaDiscovery software is distributed under the **Apache License, Version 2.0**.
+Phần mềm VinaDiscovery được phân phối theo **Apache License, Version 2.0**.
 
-See [`LICENSE`](./LICENSE) for the complete license text.
+Xem [`LICENSE`](./LICENSE) để đọc toàn bộ license.
 
-The Apache License 2.0 permits use, reproduction, modification, distribution, sublicensing, and commercialization subject to its terms and conditions, including preservation of applicable copyright, attribution, patent, and license notices.
+Apache License 2.0 cho phép sử dụng, sao chép, sửa đổi, phân phối, sublicense và commercial use theo các điều khoản của license, bao gồm việc giữ lại các copyright, attribution, patent và license notices tương ứng.
 
 ## Third-Party Components and Data
 
-VinaDiscovery may integrate with or depend upon third-party software, datasets, models, and services.
+VinaDiscovery có thể tích hợp hoặc phụ thuộc vào phần mềm, dataset, model và service của bên thứ ba.
 
-Those components remain subject to their own licenses and terms.
+Các thành phần đó vẫn chịu sự điều chỉnh của license và terms riêng.
 
-Examples include scientific libraries, molecular databases, machine-learning frameworks, simulation engines, pretrained models, external APIs, and research datasets.
+Ví dụ có thể gồm scientific libraries, molecular databases, machine-learning frameworks, simulation engines, pretrained models, external APIs và research datasets.
 
-The VinaDiscovery Apache-2.0 license does **not** supersede or relicense third-party material.
+Apache-2.0 của VinaDiscovery **không thay thế và không relicence** material của bên thứ ba.
 
 ## Visual Assets
 
-Unless a separate asset license is provided, visual materials in [`./images/`](./images/) should be treated as part of the repository distribution.
+Nếu không có asset license riêng, visual materials trong [`./images/`](./images/) được xem là một phần của repository distribution.
 
-For a future commercial/product repository, consider adding a dedicated `ASSET-LICENSE.md` if the project intends to keep the software open source while restricting reuse of logos, branding, promotional artwork, or other visual assets.
+Khi repository chuyển sang mô hình commercial/product, có thể bổ sung `ASSET-LICENSE.md` riêng nếu muốn phần software tiếp tục open source nhưng hạn chế reuse logo, branding, promotional artwork hoặc các visual assets khác.
 
 ---
 
@@ -1171,15 +1171,15 @@ For a future commercial/product repository, consider adding a dedicated `ASSET-L
 
 ---
 
-# Status
+# Trạng thái
 
 > **Research & Development**
 
-VinaDiscovery is an evolving scientific platform.
+VinaDiscovery là một scientific platform đang phát triển.
 
-Individual modules may have different levels of maturity, validation and production readiness.
+Mỗi module có thể có mức độ maturity, validation và production readiness khác nhau.
 
-Scientific claims, model performance and computational capabilities should therefore always be evaluated in the context of the corresponding:
+Scientific claims, model performance và computational capabilities cần được đánh giá theo:
 
 - module
 - dataset
@@ -1191,17 +1191,17 @@ Scientific claims, model performance and computational capabilities should there
 
 # Disclaimer
 
-VinaDiscovery is intended for **research, computational analysis, hypothesis generation and decision support**.
+VinaDiscovery dành cho **research, computational analysis, hypothesis generation và decision support**.
 
-Computational predictions do not constitute experimental confirmation, clinical evidence, regulatory approval or a substitute for laboratory validation.
+Computational predictions không cấu thành experimental confirmation, clinical evidence, regulatory approval hay sự thay thế cho laboratory validation.
 
-Users are responsible for interpreting computational results within their scientific context and validating important findings experimentally.
+Người dùng chịu trách nhiệm diễn giải computational results trong scientific context phù hợp và thực hiện experimental validation đối với các phát hiện quan trọng.
 
 ---
 
 # Contributing
 
-Contributions are welcome across:
+Hoan nghênh đóng góp trong các lĩnh vực:
 
 - cheminformatics
 - molecular modelling
@@ -1213,9 +1213,9 @@ Contributions are welcome across:
 - data infrastructure
 - workflow orchestration
 - scientific visualization
-- validation and benchmarking
+- validation và benchmarking
 
-Please open an issue or pull request with a clear description of the proposed change, scientific rationale and validation strategy.
+Vui lòng mở issue hoặc pull request kèm mô tả rõ về thay đổi đề xuất, scientific rationale và validation strategy.
 
 ---
 
